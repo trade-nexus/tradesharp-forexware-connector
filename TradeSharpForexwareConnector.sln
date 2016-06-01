@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.MarketDataProvider.Forexware", "TradeSharp.MarketDataProvider.Forexware\TradeSharp.MarketDataProvider.Forexware.csproj", "{86760533-C83A-4C6F-8EF5-EEEFDF8B687E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.MarketDataProvider.Forexware.Tests", "TradeSharp.MarketDataProvider.Forexware.Tests\TradeSharp.MarketDataProvider.Forexware.Tests.csproj", "{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86760533-C83A-4C6F-8EF5-EEEFDF8B687E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86760533-C83A-4C6F-8EF5-EEEFDF8B687E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86760533-C83A-4C6F-8EF5-EEEFDF8B687E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86760533-C83A-4C6F-8EF5-EEEFDF8B687E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
