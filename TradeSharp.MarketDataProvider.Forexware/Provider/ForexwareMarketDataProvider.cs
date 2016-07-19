@@ -515,7 +515,7 @@ namespace TradeSharp.MarketDataProvider.Forexware.Provider
         #region Create Market Data Request Message
 
         /// <summary>
-        /// Creates a FIX4.3 MarketDataRequest message.
+        /// Creates a FIX4.4 MarketDataRequest message.
         /// </summary>
         /// <param name="id"></param>
         /// <param name="security"></param>

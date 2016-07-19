@@ -18,7 +18,7 @@ namespace TradeSharp.MarketDataProvider.Forexware.Tests.Integration
             var settings = ReadFixSettingsFile.GetSettings(AppDomain.CurrentDomain.BaseDirectory + @"\Config\ForexwareFIXSettings.txt");
 
             Assert.IsTrue(settings != null, "Settings File Read");
-            Assert.IsTrue(settings.Count.Equals(21), "Parameters Count");
+            Assert.IsTrue(settings.Count.Equals(19), "Parameters Count");
         }
     }
 }

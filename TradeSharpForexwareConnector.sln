@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.MarketDataProvid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.MarketDataProvider.Forexware.Tests", "TradeSharp.MarketDataProvider.Forexware.Tests\TradeSharp.MarketDataProvider.Forexware.Tests.csproj", "{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.OrderExecutionProvider.Forexware", "TradeSharp.OrderExecutionProvider.Forexware\TradeSharp.OrderExecutionProvider.Forexware.csproj", "{3FBE13FA-DB5D-4D35-AB98-3E8D738ED1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSharp.OrderExecutionProvider.Forexware.Tests", "TradeSharp.OrderExecutionProvider.Forexware.Tests\TradeSharp.OrderExecutionProvider.Forexware.Tests.csproj", "{3682FB56-D60F-473B-A8CA-8F04BE55B867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B6E4BC-D470-4E77-86E5-882D7F4559EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBE13FA-DB5D-4D35-AB98-3E8D738ED1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBE13FA-DB5D-4D35-AB98-3E8D738ED1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBE13FA-DB5D-4D35-AB98-3E8D738ED1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBE13FA-DB5D-4D35-AB98-3E8D738ED1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3682FB56-D60F-473B-A8CA-8F04BE55B867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3682FB56-D60F-473B-A8CA-8F04BE55B867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3682FB56-D60F-473B-A8CA-8F04BE55B867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3682FB56-D60F-473B-A8CA-8F04BE55B867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
