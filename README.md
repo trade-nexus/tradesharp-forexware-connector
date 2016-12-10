@@ -115,3 +115,6 @@ To start the service
 
 ***
 
+### Bugs
+
+Please report bugs [here](https://github.com/trade-nexus/bugs)
